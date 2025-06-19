@@ -35,11 +35,11 @@ npm start
 ---
 
 ## TQ TO 💖
-**LUTFIZX (PEMBUAT)**
-**GITHUB (UPLOADFILE)**
-**TERMUX (RUN BOT)**
-**FANZZ (FRIEND ME)**
-**WHATSAPP (TEMPAT BOT)**
+**LUTFIZX >PEMBUAT<**
+**GITHUB >UPLOADFILE<**
+**TERMUX >RUN BOT<**
+**FANZZ >FRIEND ME<**
+**WHATSAPP >TEMPAT BOT<**
 
 ---
 
@@ -51,6 +51,7 @@ npm start
 ---
 
 ### 📞 CONTAC ME [CONTACT](https://wa.me/6281330941251)
+** 📞 CADANGAN [NOMOR](https://wa.me/6281249036890)**
 
 ---
 
