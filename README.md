@@ -1,5 +1,5 @@
 <h1 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">✨ SELAMAT DATANG ✨</marquee>
+  <marquee behavior="scroll" direction="left" scrollamount="10">SELAMAT DATANG</marquee>
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@ pkg install git -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
 pkg install yarn -y
-git clone https://github.com/username/LUTFIZX-CRASH
-cd LUTFIZX-CRASH
+https://github.com/LutfizX365/Bot-Bug-Termux.git
+cd bug-lutfizx
 yarn install
-node .
+npm start
