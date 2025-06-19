@@ -21,3 +21,7 @@ https://github.com/LutfizX365/Bot-Bug-Termux.git
 cd bug-lutfizx
 yarn install
 npm start
+
+---
+
+<h3>SUPPORT ME</h3>
