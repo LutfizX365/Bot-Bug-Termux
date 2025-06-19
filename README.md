@@ -35,11 +35,11 @@ npm start
 ---
 
 ## TQ TO 💖
-***LUTFIZX (PEMBUAT)***
-***GITHUB (UPLOADFILE)***
-***TERMUX (RUN BOT)***
-***FANZZ (FRIEND ME)***
-***WHATSAPP (TEMPAT BOT)***
+**LUTFIZX (PEMBUAT)**
+**GITHUB (UPLOADFILE)**
+**TERMUX (RUN BOT)**
+**FANZZ (FRIEND ME)**
+**WHATSAPP (TEMPAT BOT)**
 
 ---
 
@@ -61,4 +61,4 @@ npm start
 
 ---
 
-<h3 align="center">💖 TERIMAKASIH SUDAH MEMBACA 💖</h3>
+<h4 align="center">💖 TERIMAKASIH SUDAH MEMBACA 💖</h4>
